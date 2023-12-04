@@ -1,0 +1,58 @@
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmAddEmployee.resources
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.ChangePassword.resources
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmMain.resources
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmLogin.resources
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmPayroll.resources
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmReporting.resources
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmReports.resources
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmUsers.resources
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.Properties.Resources.resources
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.csproj.GenerateResource.cache
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.csproj.CoreCompileInputs.cache
+D:\My System\Payroll C#\Payroll System\bin\Debug\Payroll System.exe.config
+D:\My System\Payroll C#\Payroll System\bin\Debug\Payroll System.exe
+D:\My System\Payroll C#\Payroll System\bin\Debug\Payroll System.pdb
+D:\My System\Payroll C#\Payroll System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\Microsoft.Win32.Registry.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\Newtonsoft.Json.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\RestSharp.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Buffers.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.CodeDom.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Data.Odbc.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Data.OleDb.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Data.SqlClient.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Diagnostics.EventLog.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Drawing.Common.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.IO.Packaging.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.IO.Ports.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Memory.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Numerics.Vectors.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Security.AccessControl.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Security.Permissions.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Security.Principal.Windows.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.ServiceModel.Syndication.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\My System\Payroll C#\Payroll System\bin\Debug\System.Threading.AccessControl.xml
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.csproj.Fody.CopyLocal.cache
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.csproj.CopyComplete
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.exe
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.pdb
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.csproj.AssemblyReference.cache
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmCashAdvance.resources
+D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmCAreports.resources

@@ -1,0 +1,56 @@
+D:\My System\Payroll C#\Payroll System\bin\Release\Payroll System.exe.config
+D:\My System\Payroll C#\Payroll System\bin\Release\Payroll System.exe
+D:\My System\Payroll C#\Payroll System\bin\Release\Payroll System.pdb
+D:\My System\Payroll C#\Payroll System\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\Microsoft.Win32.Registry.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\Microsoft.Win32.Registry.AccessControl.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\Microsoft.Win32.SystemEvents.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\Newtonsoft.Json.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\RestSharp.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Buffers.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.CodeDom.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Data.Odbc.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Data.OleDb.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Data.SqlClient.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Diagnostics.EventLog.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Diagnostics.PerformanceCounter.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Drawing.Common.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.IO.FileSystem.AccessControl.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.IO.Packaging.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.IO.Ports.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Memory.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Numerics.Vectors.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Security.AccessControl.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Security.Cryptography.Cng.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Security.Cryptography.Pkcs.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Security.Cryptography.ProtectedData.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Security.Cryptography.Xml.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Security.Permissions.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Security.Principal.Windows.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.ServiceModel.Syndication.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.ServiceProcess.ServiceController.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Text.Encoding.CodePages.xml
+D:\My System\Payroll C#\Payroll System\bin\Release\System.Threading.AccessControl.xml
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll_System.frmAddEmployee.resources
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll_System.ChangePassword.resources
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll_System.frmMain.resources
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll_System.frmLogin.resources
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll_System.frmPayroll.resources
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll_System.frmReporting.resources
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll_System.frmReports.resources
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll_System.frmUsers.resources
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll_System.Properties.Resources.resources
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll System.csproj.GenerateResource.cache
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll System.csproj.CoreCompileInputs.cache
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll System.csproj.Fody.CopyLocal.cache
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll System.csproj.CopyComplete
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll System.exe
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll System.pdb
+D:\My System\Payroll C#\Payroll System\obj\Release\Payroll System.csproj.AssemblyReference.cache
