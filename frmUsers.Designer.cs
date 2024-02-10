@@ -390,7 +390,7 @@
             this.btnUpdate.IdleIconLeftImage = null;
             this.btnUpdate.IdleIconRightImage = null;
             this.btnUpdate.IndicateFocus = false;
-            this.btnUpdate.Location = new System.Drawing.Point(150, 241);
+            this.btnUpdate.Location = new System.Drawing.Point(152, 241);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
             this.btnUpdate.onHoverState.BorderRadius = 10;

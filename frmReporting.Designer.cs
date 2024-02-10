@@ -277,7 +277,7 @@
             this.btnSearch.IdleIconLeftImage = null;
             this.btnSearch.IdleIconRightImage = null;
             this.btnSearch.IndicateFocus = false;
-            this.btnSearch.Location = new System.Drawing.Point(55, 243);
+            this.btnSearch.Location = new System.Drawing.Point(55, 238);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
             this.btnSearch.onHoverState.BorderRadius = 10;
@@ -328,7 +328,7 @@
             this.Dtpkto.Icon = ((System.Drawing.Image)(resources.GetObject("Dtpkto.Icon")));
             this.Dtpkto.IconColor = System.Drawing.Color.DodgerBlue;
             this.Dtpkto.IconLocation = Bunifu.UI.WinForms.BunifuDatePicker.Indicator.Right;
-            this.Dtpkto.Location = new System.Drawing.Point(69, 180);
+            this.Dtpkto.Location = new System.Drawing.Point(69, 175);
             this.Dtpkto.MinimumSize = new System.Drawing.Size(217, 32);
             this.Dtpkto.Name = "Dtpkto";
             this.Dtpkto.Size = new System.Drawing.Size(217, 32);
@@ -353,7 +353,7 @@
             this.Dtpkfrom.Icon = ((System.Drawing.Image)(resources.GetObject("Dtpkfrom.Icon")));
             this.Dtpkfrom.IconColor = System.Drawing.Color.DodgerBlue;
             this.Dtpkfrom.IconLocation = Bunifu.UI.WinForms.BunifuDatePicker.Indicator.Right;
-            this.Dtpkfrom.Location = new System.Drawing.Point(69, 140);
+            this.Dtpkfrom.Location = new System.Drawing.Point(69, 135);
             this.Dtpkfrom.MinimumSize = new System.Drawing.Size(217, 32);
             this.Dtpkfrom.Name = "Dtpkfrom";
             this.Dtpkfrom.Size = new System.Drawing.Size(217, 32);
@@ -397,7 +397,7 @@
             this.btnPrint.IdleIconLeftImage = null;
             this.btnPrint.IdleIconRightImage = null;
             this.btnPrint.IndicateFocus = false;
-            this.btnPrint.Location = new System.Drawing.Point(159, 243);
+            this.btnPrint.Location = new System.Drawing.Point(159, 238);
             this.btnPrint.Name = "btnPrint";
             this.btnPrint.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
             this.btnPrint.onHoverState.BorderRadius = 10;
@@ -435,7 +435,7 @@
             this.bunifuLabel16.AutoEllipsis = false;
             this.bunifuLabel16.CursorType = null;
             this.bunifuLabel16.Font = new System.Drawing.Font("Roboto", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuLabel16.Location = new System.Drawing.Point(18, 191);
+            this.bunifuLabel16.Location = new System.Drawing.Point(18, 186);
             this.bunifuLabel16.Name = "bunifuLabel16";
             this.bunifuLabel16.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.bunifuLabel16.Size = new System.Drawing.Size(24, 20);
@@ -449,7 +449,7 @@
             this.bunifuLabel15.AutoEllipsis = false;
             this.bunifuLabel15.CursorType = null;
             this.bunifuLabel15.Font = new System.Drawing.Font("Roboto", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuLabel15.Location = new System.Drawing.Point(18, 147);
+            this.bunifuLabel15.Location = new System.Drawing.Point(18, 142);
             this.bunifuLabel15.Name = "bunifuLabel15";
             this.bunifuLabel15.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.bunifuLabel15.Size = new System.Drawing.Size(41, 20);

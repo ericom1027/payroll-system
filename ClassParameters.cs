@@ -14,6 +14,8 @@ namespace Payroll_System
         public static string uname;
         public static int userrole;
         public static Image img;
+
+        public static string userRoleString { get; internal set; }
     }
 }
  

@@ -11,6 +11,7 @@ using System.Windows.Forms;
 namespace Payroll_System
 {
     public partial class frmMain : Form
+       
     {
         
         public frmMain()
@@ -74,14 +75,17 @@ namespace Payroll_System
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-
+            GetRole roleHelper = new GetRole();
             labelfn.Text = ClassParameters.fname;
             labelLastname.Text = ClassParameters.lname;
             userlabel.Text = ClassParameters.uname;
-            LabelRole.Text = ClassParameters.userrole.ToString();
+           
+            ClassParameters.userRoleString = roleHelper.GetRoleString(ClassParameters.userrole);
+            LabelRole.Text = ClassParameters.userRoleString;
+            
             PictureBox.Image = ClassParameters.img;
             bPicBox1.Image = ClassParameters.img;
-            if (LabelRole.Text == "2")
+            if (LabelRole.Text == "User")
             {
                 btnUsers.Enabled = false;
                 btnChangepass.Enabled = false;

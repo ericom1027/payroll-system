@@ -53,6 +53,5 @@ D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.csproj.Fody.Copy
 D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.csproj.CopyComplete
 D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.exe
 D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.pdb
-D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll System.csproj.AssemblyReference.cache
 D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmCashAdvance.resources
 D:\My System\Payroll C#\Payroll System\obj\Debug\Payroll_System.frmCAreports.resources

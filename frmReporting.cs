@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
@@ -20,6 +14,7 @@ namespace Payroll_System
             cmbempload();
             btnPrint.Enabled = false;
             comboemp.Enabled = false;
+            
         }
 
         private void btnExit_Click(object sender, EventArgs e)
@@ -32,6 +27,7 @@ namespace Payroll_System
            printReport();
         }
 
+       
         private void btnSearch_Click(object sender, EventArgs e)
         {
             try
@@ -43,19 +39,30 @@ namespace Payroll_System
                 comm.Connection = P_Connection.conn;
 
                 SqlDataAdapter da;
-                da = new SqlDataAdapter("Select * From emp_payroll where PDate between @Dt1 and @Dt2 ORDER by emp_name ASC ", P_Connection.conn);
+                da = new SqlDataAdapter("SELECT * FROM emp_payroll WHERE PDate BETWEEN @Dt1 AND @Dt2 ORDER BY emp_name ASC", P_Connection.conn);
                 DataTable dt = new DataTable();
+
+                // Adjust date parameters to cover the entire day
                 da.SelectCommand.Parameters.AddWithValue("@Dt1", Dtpkfrom.Value.Date);
-                da.SelectCommand.Parameters.AddWithValue("@Dt2", Dtpkto.Value.Date);
+                da.SelectCommand.Parameters.AddWithValue("@Dt2", Dtpkto.Value.Date.AddDays(1).AddSeconds(-1));
+
                 da.Fill(dt);
                 DGVpayroll.DataSource = dt;
                 btnPrint.Enabled = true;
             }
-            catch
+            catch (Exception ex)
             {
-
+                MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+
+
+
+
+
+
+
 
         private void cmbempload()
         {
